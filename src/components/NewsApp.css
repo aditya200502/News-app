@@ -1,0 +1,26 @@
+.news-app{
+    width: 80%;
+    margin-inline: auto;
+    margin-block:40px;
+}
+
+.query-input{
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 20px;
+    font-size: 1.2rem;
+    border: 2px solid black ;
+}
+
+.btn{
+    margin-bottom: 20px;
+    padding: 20px 60px;
+    align-items: center;
+    margin-left: 33vw
+}
+
+.header{
+    text-align: center;
+    font-family: monospace;
+    font-size: 3rem;
+}
